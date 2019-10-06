@@ -1,0 +1,8 @@
+/.idea
+/.vscode
+/vendor
+/.git
+*.log
+.env
+/.idea
+simple2.iml
